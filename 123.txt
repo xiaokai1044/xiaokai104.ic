@@ -106,6 +106,13 @@ CCTV-17农业,http://211.136.65.174:80/000000001000/1000000005000056836/1.m3u8?c
 5互换性习题课,https://1258712167.vod2.myqcloud.com/fb8e6c92vodtranscq1258712167/87f757645285890801225058641/drm/voddrm.token.dWluPTEwNDQ1MTczNDM7dm9kX3R5cGU9MDtjaWQ9MTU2ODA4OTt0ZXJtX2lkPTEwMTY2NjQyMDtwbHNrZXk9MDAwNDAwMDBhY2E1NzA3YTdlYmJlNzE5NGZlZTIzNDBjZjMzMmIyNGZjNzlmNzgzZGJkOWUxY2M2NTlkMzg4ZGFlYzUyNjY3YTNlMTlmMTE4MjEyMzQ0MTtwc2tleT0qbnpZS0lmd0o1ZUFpVTFEaDN3b0ZiZHJ5cGNBbDBJSXRqNHhQNC16Q1JJXw==.master_playlist.m3u8?t=5eba109c&exper=0&us=2407502753354387444&sign=a484d8e4a3142f809b1fe6b6ad034890
 6互换性习题课,https://1258712167.vod2.myqcloud.com/fb8e6c92vodtranscq1258712167/2891502c5285890801227309369/drm/voddrm.token.dWluPTEwNDQ1MTczNDM7dm9kX3R5cGU9MDtjaWQ9MTU2ODA4OTt0ZXJtX2lkPTEwMTY2NjQyMDtwbHNrZXk9MDAwNDAwMDAyNjliNDBmZDA4OTcyMjcyNjgzZTE3YjU4MmVlMjM5MDY4NjUxNjg0YWQ0NTJlZjM3MGNkNWZmNzg0ODY0Mzk2NzkwOGY3MGVhODQ2MGMwNjtwc2tleT1kVUdUZ2l4NERpTmp4M1Z6SFZVbnlzVGQtUnVQMFdkUmVvbjV6VzhwZktJXw==.master_playlist.m3u8?t=5eba2096&exper=0&us=7689955218339381626&sign=ece39f9239e7d2d07b5f852f9e5bb567
 7互换性习题课,https://1258712167.vod2.myqcloud.com/fb8e6c92vodtranscq1258712167/c53219435285890801229453106/drm/voddrm.token.dWluPTEwNDQ1MTczNDM7dm9kX3R5cGU9MDtjaWQ9MTU2ODA4OTt0ZXJtX2lkPTEwMTY2NjQyMDtwbHNrZXk9MDAwNDAwMDAyNjliNDBmZDA4OTcyMjcyNjgzZTE3YjU4MmVlMjM5MDY4NjUxNjg0YWQ0NTJlZjM3MGNkNWZmNzg0ODY0Mzk2NzkwOGY3MGVhODQ2MGMwNjtwc2tleT0=.master_playlist.m3u8?t=5eba3273&exper=0&us=1912548310902954694&sign=332903892b59ce342a06bd815674dc83
+机械制造基础,#genre#
+1机械制造基础,http://play-back.zhiboyun.eaydu.com/vod/zby/_113193312_3144320_7.mp4
+2机械制造基础,http://play-back.zhiboyun.eaydu.com/vod/zby/_113193367_3144320_7.mp4
+3机械制造基础,http://play-back.zhiboyun.eaydu.com/vod/zby/_113193423_3144320_7.mp4
+4机械制造基础,http://play-back.zhiboyun.eaydu.com/vod/zby/_113193493_3144320_7.mp4
+5机械制造基础,http://play-back.zhiboyun.eaydu.com/vod/zby/_113193548_3144320_7.mp4
+6机械制造基础,http://play-back.zhiboyun.eaydu.com/vod/zby/_113193648_3144320_7.mp4
 体育频道,#genre#
 New超级体育,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226157/1.m3u8
 土耳其赛马,http://tjktv.ercdn.net/tjktv.m3u8
