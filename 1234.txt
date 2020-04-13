@@ -60,6 +60,7 @@
 6第二轮,http://play-back.zhiboyun.eaydu.com/vod/zby/_113190330_1052006_7.mp4
 7第二轮,http://play-back.zhiboyun.eaydu.com/vod/zby/_113190463_1052006_7.mp4
 8第二轮,http://play-back.zhiboyun.eaydu.com/vod/zby/_113190590_1052006_7.mp4
+9第二轮,https://1258712167.vod2.myqcloud.com/fb8e6c92vodtranscq1258712167/ccf0f64f5285890800766241856/drm/voddrm.token.dWluPTEwNDQ1MTczNDM7dm9kX3R5cGU9MDtjaWQ9MTcwMDI3Nzt0ZXJtX2lkPTEwMTgwMDUwMztwbHNrZXk9MDAwNDAwMDA4NTM4NmY3OWJjZTUyYjEyMzJkMzhkYTk2MjY3MjZiNTMwZjkwZjEzMzkzNmNkMDBiYzUyMjUyZjFmNzM4MTQzMjVhYzIxNmU0NjRhZDZhYTtwc2tleT03RWkzeVFCekg0RjY5LTg5MENxT2RqOE1Gd2RrdTdKTm1VVEx4dW03cGs4Xw==.master_playlist.m3u8?t=5ebba4f2&exper=0&us=2317354344055809534&sign=50ae1251386d6eebe4d60995ef796290
 电工电子,#genre#
 电工电子基础1,http://play-back.zhiboyun.eaydu.com/vod/zby/_112177682_2755412_7.mp4
 电工电子基础2,http://play-back.zhiboyun.eaydu.com/vod/zby/_112299870_2755412_7.mp4
