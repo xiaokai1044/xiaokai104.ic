@@ -117,10 +117,13 @@
 第5次课,http://play-back.zhiboyun.eaydu.com/vod/zby/_112011273_2516628_7.mp4
 第6次课,http://play-back.zhiboyun.eaydu.com/vod/zby/_112011513_2516628_7.mp4
 第7次课,http://play-back.zhiboyun.eaydu.com/vod/zby/_112102944_2516628_7.mp4
+构造习题1,https://1258712167.vod2.myqcloud.com/fb8e6c92vodtranscq1258712167/cfa95f735285890801277771278/drm/voddrm.token.dWluPTEwNDQ1MTczNDM7dm9kX3R5cGU9MDtjaWQ9MTc2NTY3Nzt0ZXJtX2lkPTEwMTg2NjQzMztwbHNrZXk9MDAwNDAwMDA4NTM4NmY3OWJjZTUyYjEyMzJkMzhkYTk2MjY3MjZiNTMwZjkwZjEzMzkzNmNkMDBiYzUyMjUyZjFmNzM4MTQzMjVhYzIxNmU0NjRhZDZhYTtwc2tleT0=.master_playlist.m3u8?t=5ebcdbf4&exper=0&us=7687838447988537208&sign=e9353a93210b8e0ad09caa152d7e7258
 土木力学,#genre#
 第1次课,http://play-back.zhiboyun.eaydu.com/vod/zby/_111144698_2516628_7.mp4
 第2次课,http://play-back.zhiboyun.eaydu.com/vod/zby/_111145229_2516628_7.mp4
 第3次课,http://play-back.zhiboyun.eaydu.com/vod/zby/_111145562_2516628_7.mp4
+力学习题1,https://1258712167.vod2.myqcloud.com/fb8e6c92vodtranscq1258712167/5b591c4a5285890801099850620/drm/voddrm.token.dWluPTEwNDQ1MTczNDM7dm9kX3R5cGU9MDtjaWQ9MTc2NTY3Nzt0ZXJtX2lkPTEwMTg2NjQzMztwbHNrZXk9MDAwNDAwMDA4NTM4NmY3OWJjZTUyYjEyMzJkMzhkYTk2MjY3MjZiNTMwZjkwZjEzMzkzNmNkMDBiYzUyMjUyZjFmNzM4MTQzMjVhYzIxNmU0NjRhZDZhYTtwc2tleT0=.master_playlist.m3u8?t=5ebcdba8&exper=0&us=2294653889913849486&sign=186ea27be42461204fa9321ef27133a0
+力学习题2,https://1258712167.vod2.myqcloud.com/fb8e6c92vodtranscq1258712167/3af134bf5285890801146104183/drm/voddrm.token.dWluPTEwNDQ1MTczNDM7dm9kX3R5cGU9MDtjaWQ9MTc2NTY3Nzt0ZXJtX2lkPTEwMTg2NjQzMztwbHNrZXk9MDAwNDAwMDA4NTM4NmY3OWJjZTUyYjEyMzJkMzhkYTk2MjY3MjZiNTMwZjkwZjEzMzkzNmNkMDBiYzUyMjUyZjFmNzM4MTQzMjVhYzIxNmU0NjRhZDZhYTtwc2tleT0=.master_playlist.m3u8?t=5ebcdbdd&exper=0&us=6623274572966230375&sign=a9dd162548211044076e54b183a4735d
 土木专业技能,#genre#
 第1次课,http://play-back.zhiboyun.eaydu.com/vod/zby/_111285035_2516628_7.mp4
 第2次课,http://play-back.zhiboyun.eaydu.com/vod/zby/_111410616_2516628_7.mp4
@@ -128,3 +131,4 @@
 第4次课,http://play-back.zhiboyun.eaydu.com/vod/zby/_111547510_2516628_7.mp4
 第5次课,http://play-back.zhiboyun.eaydu.com/vod/zby/_111547653_2516628_7.mp4
 第6次课,http://play-back.zhiboyun.eaydu.com/vod/zby/_111611349_2516628_7.mp4
+技能2,https://1258712167.vod2.myqcloud.com/fb8e6c92vodtranscq1258712167/2c1563525285890800964915860/drm/voddrm.token.dWluPTEwNDQ1MTczNDM7dm9kX3R5cGU9MDtjaWQ9MTc2NTY3Nzt0ZXJtX2lkPTEwMTg2NjQzMztwbHNrZXk9MDAwNDAwMDA4NTM4NmY3OWJjZTUyYjEyMzJkMzhkYTk2MjY3MjZiNTMwZjkwZjEzMzkzNmNkMDBiYzUyMjUyZjFmNzM4MTQzMjVhYzIxNmU0NjRhZDZhYTtwc2tleT0=.master_playlist.m3u8?t=5ebcdb6a&exper=0&us=2593291879086450701&sign=36201e480e13243b808b239b213b5984
