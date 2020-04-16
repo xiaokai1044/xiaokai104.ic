@@ -1,4 +1,5 @@
 各省卫视,#genre#
+测试,https://dtliving-pre.alicdn.com/live/feb89680-cfef-4789-b5cc-023a70e97426_merge.m3u8?app_type=win&auth_key=1589624632-0-0-5030c6a40ca9c57bf20372209cff4b3d&cid=d31638167a29a73b3024b5f10c891bc2&token=2a5a934bf4d601e7ff5cc7cb3af34fadoNgK5UUZvTUbDJLMdDamhtXCK2evTB-1k5S5PBu_PtOPqCldFlS5iZSho5Cj0slhsro5prk1UpqsEPeOjuz6ajHyV5iyZilPYkL21KAAlQQ=&token2=7c46aca5b843b7438120dff4989cc47bX8BXZhqBxGthJGIuR_qcO7mGAadqkKW0LJquQMsG1fXOUHO4-PqZ_Eo_BH2AALbiAoKmncSWuTeCvbcv9EGifoBRg3oiyCmoFqtXcExU4Qs&version=5.0.11-Release.2
 湖南卫视,http://httpdvb.slave.homed.hrtn.net:80/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000153.m3u8#http://ivi.bupt.edu.cn/hls/hunanhd.m3u8#http://ivi.bupt.edu.cn/hls/hunantv.m3u8#http://stream.cdjsxy.cn/hnws/sd/live.m3u8
 浙江卫视,http://ali.m.l.cztv.com/channels/lantian/channel01/720p.m3u8
 安徽卫视,https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/anhui_2/index.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/anhui_2/index.m3u8
